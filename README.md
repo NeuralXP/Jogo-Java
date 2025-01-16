@@ -1,3 +1,4 @@
 # Jogo-Java
 
-Repositorio para projeto de jogo 2D com Java
+Repositorio para projeto da faculdade:
+Criação de Jogo em 2D com Java
